@@ -1,4 +1,4 @@
-from zooAnimales.animal import Animal
+from zooAnimales.Animal import Animal
 
 
 class Anfibio(Animal):
